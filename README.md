@@ -1,5 +1,6 @@
 # Training Data Extraction Attacks on Large Language Models: A Deeper Look into GPT-2 XL, GPT-2 IMDB, and LLaMA
 
+## Projet de groupe avec Zak, Hirama, Sabri,Moha et ANTO 
 **Final Report**: [here](cos484_project.pdf)
 
 In this paper, we reproduce results from
